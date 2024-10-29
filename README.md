@@ -4,10 +4,12 @@
 **Project Overview:** <br>
 This project aims to develop an intelligent autocorrect and word suggestion system utilizing Natural Language Processing (NLP) techniques. By leveraging Jaccard similarity, the system provides contextual corrections and suggestions that enhance typing accuracy and efficiency, making it a valuable tool for users in various applications.
 
+
 **Key Features:**
 - Autocorrect Functionality: Automatically identifies and corrects misspelled words using Jaccard similarity, which measures the overlap of character sequences between the input and a predefined vocabulary.
 - Word Suggestions: Generates relevant word suggestions based on user input, prioritizing options by their frequency in the dataset, thereby improving user experience and typing speed.
 - Contextual Awareness: Uses character-based similarity to ensure that suggestions are not only similar but also contextually relevant to the user's input.
+
 
 **Technical Details:**
 - Natural Language Processing: Implements NLP techniques to process and analyze text data, enabling efficient word identification and frequency calculation.
@@ -31,9 +33,12 @@ User Interaction:
 **Usage:**<br>
 To use the system, simply input a word that you suspect may be misspelled or type a word to receive suggestions. The system will return either a confirmation of the correct spelling or a list of potential corrections and suggestions.
 
-**Future Enhancements:**<br>- User Feedback Integration: Incorporate mechanisms to allow users to provide feedback on suggestions, enhancing the model's learning process.
+
+**Future Enhancements:**
+- User Feedback Integration: Incorporate mechanisms to allow users to provide feedback on suggestions, enhancing the model's learning process.
 - Contextual Language Models: Explore integrating more advanced NLP techniques, such as neural networks, to improve the contextual awareness of suggestions.
 - Mobile Application Development: Create a mobile app interface for easier accessibility and real-time autocorrect features.
+
 
 **Contributing:**<br>
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
