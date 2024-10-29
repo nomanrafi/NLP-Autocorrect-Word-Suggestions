@@ -31,8 +31,7 @@ User Interaction:
 **Usage:**<br>
 To use the system, simply input a word that you suspect may be misspelled or type a word to receive suggestions. The system will return either a confirmation of the correct spelling or a list of potential corrections and suggestions.
 
-**Future Enhancements:**
-- User Feedback Integration: Incorporate mechanisms to allow users to provide feedback on suggestions, enhancing the model's learning process.
+**Future Enhancements:**<br>- User Feedback Integration: Incorporate mechanisms to allow users to provide feedback on suggestions, enhancing the model's learning process.
 - Contextual Language Models: Explore integrating more advanced NLP techniques, such as neural networks, to improve the contextual awareness of suggestions.
 - Mobile Application Development: Create a mobile app interface for easier accessibility and real-time autocorrect features.
 
