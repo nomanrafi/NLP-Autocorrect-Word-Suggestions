@@ -15,8 +15,8 @@ This project aims to develop an intelligent autocorrect and word suggestion syst
 - Similarity Measurement: Employs Jaccard similarity to compare the input word with words in the vocabulary, allowing the system to identify closely related words based on character similarities.
 - User Input Handling: Designed to dynamically handle various user inputs, providing real-time suggestions and corrections as the user types.
 
-**Implementation Steps:**
 
+**Implementation Steps:**
 Data Preparation:
 - Load a text corpus for analysis.
 - Process the text to create a list of words and compute their frequencies.
@@ -27,13 +27,18 @@ Autocorrect and Suggestion Functions:
 User Interaction:
 - Create an interface for users to input text and receive corrections and suggestions in real-time.
 
+
 **Usage:**
+
 To use the system, simply input a word that you suspect may be misspelled or type a word to receive suggestions. The system will return either a confirmation of the correct spelling or a list of potential corrections and suggestions.
+
 
 **Future Enhancements:**
 - User Feedback Integration: Incorporate mechanisms to allow users to provide feedback on suggestions, enhancing the model's learning process.
 - Contextual Language Models: Explore integrating more advanced NLP techniques, such as neural networks, to improve the contextual awareness of suggestions.
 - Mobile Application Development: Create a mobile app interface for easier accessibility and real-time autocorrect features.
 
+
 **Contributing:**
+
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
