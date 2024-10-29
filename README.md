@@ -1,7 +1,7 @@
 # NLP-Autocorrect-Word-Suggestions
 ## Leveraging Jaccard Similarity for Contextual Autocorrect and Word Suggestions with Natural Language Processing.
 
-**Project Overview**
+**Project Overview:**<br>
 This project aims to develop an intelligent autocorrect and word suggestion system utilizing Natural Language Processing (NLP) techniques. By leveraging Jaccard similarity, the system provides contextual corrections and suggestions that enhance typing accuracy and efficiency, making it a valuable tool for users in various applications.
 
 **Key Features:**
@@ -16,7 +16,7 @@ This project aims to develop an intelligent autocorrect and word suggestion syst
 - User Input Handling: Designed to dynamically handle various user inputs, providing real-time suggestions and corrections as the user types.
 
 
-**Implementation Steps:**
+**Implementation Steps:**<br>
 Data Preparation:
 - Load a text corpus for analysis.
 - Process the text to create a list of words and compute their frequencies.
@@ -37,6 +37,7 @@ To use the system, simply input a word that you suspect may be misspelled or typ
 - User Feedback Integration: Incorporate mechanisms to allow users to provide feedback on suggestions, enhancing the model's learning process.
 - Contextual Language Models: Explore integrating more advanced NLP techniques, such as neural networks, to improve the contextual awareness of suggestions.
 - Mobile Application Development: Create a mobile app interface for easier accessibility and real-time autocorrect features.
+
 
 
 **Contributing:**
